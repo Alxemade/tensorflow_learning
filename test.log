@@ -1,0 +1,11 @@
+2018-05-09 10:18:24,807 - mylogger - INFO - foorbar
+2018-05-09 10:35:06,746 - mylogger - DEBUG - foobar
+2018-05-09 10:35:06,747 - mylogger - INFO - foobar
+2018-05-09 10:35:06,748 - mylogger - WARNING - foobar
+2018-05-09 10:35:06,749 - mylogger - ERROR - foobar
+2018-05-09 10:35:06,749 - mylogger - CRITICAL - foobar
+2018-05-09 10:58:04,239 - mylogger - DEBUG - foobar
+2018-05-09 10:58:04,240 - mylogger - INFO - foobar
+2018-05-09 10:58:04,242 - mylogger - WARNING - foobar
+2018-05-09 10:58:04,244 - mylogger - ERROR - foobar
+2018-05-09 10:58:04,245 - mylogger - CRITICAL - foobar
